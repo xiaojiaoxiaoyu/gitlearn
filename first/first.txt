@@ -1,1 +1,22 @@
+﻿
 this is my first git test.
+this is what.
+tihs is git test3.
+
+this is git 修改了test2.
+this is git test3.
+
+
+this is git test3.
+this is git test5.
+
+
+
+dev add
+又增加了一行
+
+
+
+
+
+
